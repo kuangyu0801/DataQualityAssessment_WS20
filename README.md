@@ -15,14 +15,29 @@ from the abstract what the paper is about and why you worked on that topic.
 
 可以談到data quality的重要性, 與目前遇到的挑戰
 
-# Foundemantals on Data Attributes
+In this section, the overview of this report will be presented. 
+Then the following two points will be discussed
+1. the motivation behind this report
+2. a brief introduction of data quality assessment including its importance and challenges 
 
+# fundamentals on Data Attributes
+In this section, fundamentals and concept of data quality will first be reviewed and discussed. The topics included are definition, classification,
+attributed, dimensions of data.
+Secondly, the process and pipelines for analysing methodologies of DQ are introduced.
+This topics regarding these methodologies includes strategies, techniques, dimensions, costs, data types, information system types
+
+4. 
 # Related Work
-
+In this section, 5 state-of-the art data quality assessment methods are introduced in brief.
+These methods includes : to decided.
 # Evaluation
-
+In this section evaluation in terns of process, techniques, and performances are disccussed across these 5 methods.
 # Conclusion
 
+This section summarizes all the topics in report. 
+The conclusions of evaluation of different method is drew. 
+From the best suitable methods, new ideas and customization are proposed to be adapted in the context of CI/CD application in software engineering.
+In the end, the future work of data quality assessment for CI/CD application are proposed.
 
 # Literature Review
 ## Data Quality Assessment

@@ -15,10 +15,17 @@ from the abstract what the paper is about and why you worked on that topic.
 
 可以談到data quality的重要性, 與目前遇到的挑戰
 
+**The rest of the paper is structured as follows: First,** 
+
+
+
 In this section, the overview of this report will be presented. 
 Then the following two points will be discussed
 1. the motivation behind this report
 2. a brief introduction of data quality assessment including its importance and challenges 
+
+
+
 
 # fundamentals on Data Attributes
 In this section, fundamentals and concept of data quality will first be reviewed and discussed. The topics included are definition, classification,
@@ -115,4 +122,30 @@ dynamic big data quality assessment process with a feedback mechanism
 4.3. Data Quality and New Types of Information Systems
 4.4. Further Open Issues
 
-### Open Issues可以列為參考
+
+## A CLASSIFICATION OF DATA QUALITY ASSESSMENT METHODS 2011
+
+### INTRODUCTION
+Data quality (DQ) assessment provides the basic foundation for improving DQ in organizations
+
+The rest of the paper is structured as follows: First, we introduce a classification of DQ problems and a list of DQ methods currently used in DQ tools. Furthermore, we provide a brief review of previous work on DQ method classifications. The centre of this paper is our proposed classification, which maps DQ assessment methods with DQ problems into a taxonomy and provides detailed examples for each mapping. The section is divided into mapping of independent DQ problems and mapping of context- dependent DQ problems. The paper ends with a conclusion and outlook for future research.
+
+
+### DATA QUALITY PROBLEMS
+Table 1. A Classification of DQ Problems [9]
+***這張圖好用***
+
+### DQ ASSESSMENT METHODS
+
+### EXISTING CLASSIFICATIONS OF DATA QUALITY METHODS
+Gartner research takes a different approach and provides a “Magic Quadrant” to guide organizations in their selection of DQ tools. 
+
+### CONCLUSION AND FUTURE WORK
+
+### Open Issues
+- what are relational databases
+
+### 可以列為參考
+
+- Ge, M., and Helfert, M., “A Review of Information Quality Research,” Proceedings of the 12th International
+Conference on Information Quality, 2007.

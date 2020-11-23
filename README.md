@@ -28,17 +28,18 @@ Then the following two points will be discussed
 
 
 # fundamentals on Data Attributes
-In this section, fundamentals and concept of data quality will first be reviewed and discussed. The topics included are definition, classification,
-attributed, dimensions of data.
+In this section, fundamentals and concept of data quality will first be reviewed and discussed. 
+The topics included are definition, classification, attributed, dimensions of data.
 Secondly, the process and pipelines for analysing methodologies of DQ are introduced.
-This topics regarding these methodologies includes strategies, techniques, dimensions, costs, data types, information system types
+This topics regarding these methodologies includes strategies, techniques, dimensions, 
+costs, data types, information system types
 
-4. 
+
 # Related Work
 In this section, 5 state-of-the art data quality assessment methods are introduced in brief.
 These methods includes : to decided.
 # Evaluation
-In this section evaluation in terns of process, techniques, and performances are disccussed across these 5 methods.
+In this section evaluation in terns of process, techniques, and performances are discussed across these 5 methods.
 # Conclusion
 
 This section summarizes all the topics in report. 
@@ -123,7 +124,7 @@ dynamic big data quality assessment process with a feedback mechanism
 4.4. Further Open Issues
 
 
-## A CLASSIFICATION OF DATA QUALITY ASSESSMENT METHODS 2011
+## A CLASSIFICATION OF DATA QUALITY ASSESSMENT METHODS 2011(這一篇作為主力！！！！)
 
 ### INTRODUCTION
 Data quality (DQ) assessment provides the basic foundation for improving DQ in organizations
@@ -137,8 +138,22 @@ Table 1. A Classification of DQ Problems [9]
 
 ### DQ ASSESSMENT METHODS
 
+- Column analysis: Number of (unique) values and the number of instances per value as percentage from the total number of instances in that column
+- Cross-domain analysis
+- Data validation
+- Domain analysis
+- Lexical analysis
+- Matching algorithms: identify duplicates
+- Primary key and foreign key analysis (PK/FK analysis) : are good candidates for a PK/FK
+- Schema matching: two attributes are semantically equivalent
+- Semantic profiling
+
 ### EXISTING CLASSIFICATIONS OF DATA QUALITY METHODS
 Gartner research takes a different approach and provides a “Magic Quadrant” to guide organizations in their selection of DQ tools. 
+
+Table 2. Classification Mapping Requirements
+
+### CLASSIFYING DQ ASSESSMENT METHODS
 
 ### CONCLUSION AND FUTURE WORK
 

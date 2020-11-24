@@ -22,6 +22,15 @@
 context for the paper could be stressed more that a reader can judge
 from the abstract what the paper is about and why you worked on that topic.
 
+# Abstract
+
+The evaluation of data quality assessment is presented in this report. 
+The report contains five  sections: Introduction, Fundamental, discussion and application. 
+For the first section, an overview of dimensions of data and methods to assess data quality are introduced.   
+In second section, paper survey on state-of-art data quality assessment is performed and important concept from different paper are explained in brief. 
+In the third part, discussion on data properties for further analysis, methods to improve data set and application of the assessment methods to an existing data set are presented. 
+In the end of paper, a conclusion is made to propose most suitable way to evaluate data quality in the context of CI/CD application in software engineering. Main references are base on following paper and journal:
+
 
 # Introduction
 
@@ -67,12 +76,12 @@ In the end, the future work of data quality assessment for CI/CD application are
 	- Weighted Average.
 - Assessments in Practice
 
-Issues that arise when combining values associ- ated with different scale types (ordinal, interval, and ratio)
+Issues that arise when combining values associated with different scale types (ordinal, interval, and ratio)
 
 - Conclusion
 
 one size fits all” set of metrics is not a solution.
-fundamental prin- ciples underlying the development of subjective and objective data quality metrics
+fundamental principles underlying the development of subjective and objective data quality metrics
 
 ## The Challenges of Data Quality and Data Quality Assessment in the Big Data Era
 
@@ -144,7 +153,11 @@ dynamic big data quality assessment process with a feedback mechanism
 ### INTRODUCTION
 Data quality (DQ) assessment provides the basic foundation for improving DQ in organizations
 
-The rest of the paper is structured as follows: First, we introduce a classification of DQ problems and a list of DQ methods currently used in DQ tools. Furthermore, we provide a brief review of previous work on DQ method classifications. The centre of this paper is our proposed classification, which maps DQ assessment methods with DQ problems into a taxonomy and provides detailed examples for each mapping. The section is divided into mapping of independent DQ problems and mapping of context- dependent DQ problems. The paper ends with a conclusion and outlook for future research.
+The rest of the paper is structured as follows: 
+First, we introduce a classification of DQ problems and a list of DQ methods currently used in DQ tools. 
+Furthermore, we provide a brief review of previous work on DQ method classifications. 
+The centre of this paper is our proposed classification, which maps DQ assessment methods with DQ problems into a taxonomy and provides detailed examples for each mapping. 
+The section is divided into mapping of independent DQ problems and mapping of context- dependent DQ problems. The paper ends with a conclusion and outlook for future research.
 
 
 ### DATA QUALITY PROBLEMS

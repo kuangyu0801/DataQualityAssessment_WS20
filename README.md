@@ -6,7 +6,7 @@
 
 # Reference
 - Coursera: [https://www.coursera.org/learn/sql-data-science/home/welcome][2] Databases and SQL for Data Science
-
+![avatar][/picture/relational_database.png]
 # 知識點
 
 - what are relational databases: [https://en.wikipedia.org/wiki/Relational_database][1]

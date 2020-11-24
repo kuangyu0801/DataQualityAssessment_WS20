@@ -1,9 +1,18 @@
-# easychair:
+#帳號detail easychair:
 - lumiereli
 - cougar9487
 
 [https://easychair.org/my/conference?conf=sqaseminarws2021#](https://easychair.org/my/conference?conf=sqaseminarws2021#)
 
+# Reference
+- Coursera: [https://www.coursera.org/learn/sql-data-science/home/welcome][2] Databases and SQL for Data Science
+
+# 知識點
+
+- what are relational databases: [https://en.wikipedia.org/wiki/Relational_database][1]
+
+# TODO
+- 檢查一下資料（what are the structure, attribute, dimension)跟問題是屬於哪一種(dependent, user centric)？
 
 # Feedback
 - From what currently is mentioned in the abstract, the motivation and the
@@ -126,6 +135,9 @@ dynamic big data quality assessment process with a feedback mechanism
 
 ## A CLASSIFICATION OF DATA QUALITY ASSESSMENT METHODS 2011(這一篇作為主力！！！！)
 
+同音詞 (Homonym), 同義詞 (Synonym)
+
+
 ### INTRODUCTION
 Data quality (DQ) assessment provides the basic foundation for improving DQ in organizations
 
@@ -155,12 +167,31 @@ Table 2. Classification Mapping Requirements
 
 ### CLASSIFYING DQ ASSESSMENT METHODS
 
+#### Classification of Assessment Methods and Context-Independent DQ Problems
+
+##### Discussion of the Context-independent Classification of DQ Methods
+
+#### Classification of Assessment Methods and Context-Dependent DQ Problems
+
+##### Discussion of the Context-dependent Classification of DQ Methods
+
 ### CONCLUSION AND FUTURE WORK
 
-### Open Issues
-- what are relational databases
+Several gaps were identified overall for two DQ problems: missing data and existence of synonyms and homonyms. 
+- The first gap relates to the missing data DQ problem, where for example a table is missing a row.
+- The other gaps relate to the detection of synonyms and homonyms throughout multiple rows, multiple attributes, multiple relations and multiple data sources. 
+
+One limitation of the classification is that it only considers whether a DQ method addresses a DQ problem (for each taxonomy element), and this may not always be absolute in the sense that some DQ methods may be more comprehensive than others
+it may be the case that only the developers of the classification were not able to identify a DQ problem. 
+Furthermore, as semi-structured data like XML files and unstructured data
+
+
 
 ### 可以列為參考
 
 - Ge, M., and Helfert, M., “A Review of Information Quality Research,” Proceedings of the 12th International
 Conference on Information Quality, 2007.
+
+[1]: https://en.wikipedia.org/wiki/Relational_database
+
+[2]: https://www.coursera.org/learn/sql-data-science/home/welcome

@@ -8,6 +8,7 @@
 - Coursera: [https://www.coursera.org/learn/sql-data-science/home/welcome][2] Databases and SQL for Data Science
 
 ![avatar](/picture/relational_database.png)
+![avatar](/picture/relational_database_terms.png)
 
 # 知識點
 

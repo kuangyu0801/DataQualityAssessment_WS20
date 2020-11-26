@@ -25,7 +25,7 @@ from the abstract what the paper is about and why you worked on that topic.
 # Abstract
 
 The evaluation of data quality assessment is presented in this report. 
-The report contains five  sections: Introduction, Fundamental, discussion and application. 
+The report contains five sections: Introduction, Fundamental, discussion and application. 
 For the first section, an overview of dimensions of data and methods to assess data quality are introduced.   
 In second section, paper survey on state-of-art data quality assessment is performed and important concept from different paper are explained in brief. 
 In the third part, discussion on data properties for further analysis, methods to improve data set and application of the assessment methods to an existing data set are presented. 
@@ -45,10 +45,15 @@ Then the following two points will be discussed
 1. the motivation behind this report
 2. a brief introduction of data quality assessment including its importance and challenges 
 
+The rest of the paper is structured as follows: Data Quality Fundamentals, Related Works, Evaluation and Conclusion.
+For the first section, the fundamental of data quality are introduced, which include
+an overview of data quality and their attributes and classification of  data quality assessment methods.   
+In second section, literature review of five data quality assessment are presented and important concept from different paper are explained in brief. 
+In the third part, evaluation on these five methods is performed in terms of steps, process, strategies, techniques, cost and performance.
+In the end of paper, a conclusion is made based on evaluation result in the context of CI/CD application in software engineering. The proposed method, future work and challenges are discussed in brief.
 
 
-
-# fundamentals on Data Attributes
+# Fundamentals on Data Quality
 In this section, fundamentals and concept of data quality will first be reviewed and discussed. 
 The topics included are definition, classification, attributed, dimensions of data.
 Secondly, the process and pipelines for analysing methodologies of DQ are introduced.

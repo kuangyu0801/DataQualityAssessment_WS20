@@ -1,4 +1,10 @@
-#帳號detail easychair:
+# Deadline:
+ - 1.17 Revised version of thesis easy-chair (student)
+ - 1.31 Presentation slides hand in E-Mail (student)
+ - 2.15 Presentations as block
+ - 2.28 Final Submission
+
+# 帳號detail easychair:
 - lumiereli
 - cougar9487
 
@@ -16,6 +22,10 @@
 
 # TODO
 - 檢查一下資料（what are the structure, attribute, dimension)跟問題是屬於哪一種(dependent, user centric)？
+- format checking: reference, grammar, figure
+- use grammarly for grammar check
+- paraphrasing
+- 第三段重新整理
 
 # Feedback
 - From what currently is mentioned in the abstract, the motivation and the

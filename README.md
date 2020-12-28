@@ -21,6 +21,8 @@
 - what are relational databases: [https://en.wikipedia.org/wiki/Relational_database][1]
 
 # TODO
+- grammarly,
+- merge two branches
 - 檢查一下資料（what are the structure, attribute, dimension)跟問題是屬於哪一種(dependent, user centric)？
 - format checking: reference, grammar, figure
 - use grammarly for grammar check

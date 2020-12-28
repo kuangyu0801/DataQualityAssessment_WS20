@@ -97,26 +97,26 @@ Otherwise, I was wondering where your application of the assessment methods to e
 Spelling mistakes:
 
 • Abstract:
-- "fives" -> five
-- "[...] techniques, targeted data quality dimensions and cost."
+- [FIXED] "fives" -> five
+- [FIXED] "[...] techniques, targeted data quality dimensions and cost."
 -> "[...] techniques, targeted data quality dimensions, and cost."
 • Introduction:
-- "With the Machine Learning" -> "With Machine Learning"
-- "[...] Deeps Learning and Artificial Intelligence" -> "[...] Deeps Learning, and Artificial Intelligence"
-- "[...] demand of data analysis" -> "[...] demand for data analysis"
+- [FIXED] "With the Machine Learning" -> "With Machine Learning"
+- [FIXED] "[...] Deeps Learning and Artificial Intelligence" -> "[...] Deeps Learning, and Artificial Intelligence"
+- [FIXED] "[...] demand of data analysis" -> "[...] demand for data analysis"
 - "Or, more preciosity, how to defines the quality of a set of data?"
 -> I don't know what your goal was with this sentence, I am guessing: "Or, more preciously, how to define the quality of a set of data?
 I advise not to start sentences with "Or".
 • Section 3
-- "fives" -> five
+- [FIXED] "fives" -> five
 
-• 4 Evaluation
+• [FIXED] 4 Evaluation
 - "evaluation in terns of process" -> "evaluation in terms of process"
 
-• Table 1:
+• [FIXED] Table 1:
 - "organizationas" -> "organisations"
 
-• Conclusion:
+• [FIXED] Conclusion:
 - "followed by the evaluation and analysis over five DQ assessment methods in term of different aspects"
 -> "followed by the evaluation and analysis of five DQ assessment methods in term of different aspects"
 

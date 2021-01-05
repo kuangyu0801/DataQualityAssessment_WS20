@@ -96,8 +96,8 @@ Otherwise, I was wondering where your application of the assessment methods to e
 
 Spelling mistakes:
 
-• Abstract:
-- [FIXED] "fives" -> five
+- Abstract:
+    + [DONE] "fives" -> five
 - [FIXED] "[...] techniques, targeted data quality dimensions and cost."
 -> "[...] techniques, targeted data quality dimensions, and cost."
 • Introduction:
